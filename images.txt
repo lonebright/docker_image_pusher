@@ -6,4 +6,5 @@ apache/kvrocks:latest
 
 # Redis 镜像（备用）
 redis:alpine
-# test
+
+budtmo/docker-android:emulator_9.0
