@@ -1,16 +1,6 @@
-#LunaTV核心镜像
-ghcr.io/moontechlab/lunatv:latest
-
-# Kvrocks 数据库镜像
-apache/kvrocks:latest
-
-# Redis 镜像（备用）
-redis:alpine
-
-budtmo/docker-android:emulator_9.0
 
 wbsu2003/pushdeer:latest
 
 mariadb:10.5.8-focal
 
-bitnami/redis:6.0.16
+bitnami/redis
