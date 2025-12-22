@@ -8,3 +8,9 @@ apache/kvrocks:latest
 redis:alpine
 
 budtmo/docker-android:emulator_9.0
+
+wbsu2003/pushdeer:latest
+
+mariadb:10.5.8-focal
+
+bitnami/redis:6.0.16
