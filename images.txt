@@ -19,4 +19,4 @@ milvusdb/milvus:v2.3.4
 
 nginx:alpine
 
-erstt/redroid:11.0.0_houdini_ChromeOS
+erstt/redroid:13.0.0_houdini_ChromeOS
